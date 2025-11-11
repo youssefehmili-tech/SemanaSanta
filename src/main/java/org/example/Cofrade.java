@@ -8,6 +8,8 @@ public class Cofrade {
 
     String apellidos;
 
+    int edad;
+
     LocalDate fechaNacimiento;
 }
 
